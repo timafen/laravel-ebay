@@ -16,7 +16,7 @@
     ],
     "autoload":{
         "psr-4": {
-            "Hkonnet\\LaravelEbay\\": "src"
+            "Timafen\\LaravelEbay\\": "src"
         }
     },
     "minimum-stability": "stable"
