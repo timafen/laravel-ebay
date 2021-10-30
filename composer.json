@@ -8,13 +8,6 @@
         "php": ">=5.5",
         "timafen/ebay-sdk-php": "^19.0"
     },
-    "repositories":
-    [
-        {
-            "type": "vcs",
-            "url": "https://github.com/timafen/ebay-sdk-php"
-        }
-    ],
     "authors": [
         {
             "name": "Timafen",
